@@ -2,7 +2,7 @@
 
 Se trata de una colección de ejercicios simples realizados con python.
 
-Se busca practicar el paso de métodos entre clases y generación de objetos. 
+Se busca practicar el paso de métodos entre clases y generación de objetos. (además, están pensados para ser hechos a papel).
 
 ## Los ejercicios se componen de:
 
