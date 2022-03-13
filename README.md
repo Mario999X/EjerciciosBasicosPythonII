@@ -9,3 +9,4 @@ Se busca practicar el paso de métodos entre clases y generación de objetos.
     1. Una calculadora.
     2. Un sorteo.
     3. Gestión simple de una empresa.
+    4. Una réplica de un juego gacha simple.
